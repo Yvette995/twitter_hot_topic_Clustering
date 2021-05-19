@@ -1,6 +1,5 @@
 # twitter_hot_topic_Clustering
 
-Finial Project Report
 
 ###	What problem I tried to solve?
 There is a huge stream of information on Twitter every day, and it is not easy to find out the hot topics or opinions (not the kind recommended by the tweeters), so it is a meaningful task to dig out the hot information from the large number of tweets.
