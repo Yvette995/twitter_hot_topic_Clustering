@@ -9,6 +9,7 @@ I built a web application to dig out the hot information from the large number o
 I obtained the desired results by vectorizing the tweets through text vectorization techniques and then clustering them using the DBSCAN algorithm.
 Also, I developed a web application that was able to simplify the whole analysis process into a simple click-and-upload operation
  
+[![g56TPK.png](https://z3.ax1x.com/2021/05/19/g56TPK.png)](https://imgtu.com/i/g56TPK)
 
 ###	Highlights about my project
 1.	Implemented text vectorization representation of twitter text and successfully used DBSCAN algorithm to perform hotspot clustering with good results.
