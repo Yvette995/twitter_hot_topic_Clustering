@@ -3,6 +3,8 @@
 
 ### How to run
 this project need ```streamlit, pandas```
+
+
 ```streamlit run web.py```
 
 ###	What problem I tried to solve?
