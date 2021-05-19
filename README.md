@@ -1,7 +1,8 @@
 # twitter_hot_topic_Clustering
 
 
-### how to run
+### How to run
+this project need ```streamlit, pandas```
 ```streamlit run web.py```
 
 ###	What problem I tried to solve?
